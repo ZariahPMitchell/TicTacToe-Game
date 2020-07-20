@@ -15,7 +15,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENtS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
