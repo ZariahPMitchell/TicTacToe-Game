@@ -48,7 +48,7 @@ This java project is a banking system. In this java banking sysmte oyu are able 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+This game can be used for those that what to leanr to play tic tac toe
 <!-- ROADMAP -->
 ## Roadmap
 
